@@ -1,5 +1,11 @@
-body{background-color: #7caec8;
+body{
+    background-color: rgb(61, 83, 93);
 
 }
 
-h1{}
+h1{
+    color: rgb(4, 17, 23);
+}
+#home-table{width: 800px;
+background-color: rrgb(14, 17, 19)}
+#MB{width: 200px; text-align: center}
